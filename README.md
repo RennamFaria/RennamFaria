@@ -1,5 +1,14 @@
 <h1 align="center">I'm Rennam Faria</h1>
-<h3 align="center">I'm a backend developer with Python and Java from Brazil, aspiring AI modeling</h3>
+<h3 align="center">I'm a backend developer using Python and Java from Brazil, aspiring AI modeling</h3>
+
+---
+
+- Computer Science Student at Federal University of São Paulo (UNIFESP), Brazil
+    
+Driven by curiosity and passion for creating technology solutions that make life easier.
+Always looking for something else to learn or spend some time playing.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +23,12 @@
 
 <h3 align="left">DataBase:</h3>
 <p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
