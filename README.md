@@ -3,7 +3,7 @@
 
 ---
 
-- Computer Science Student at Federal University of São Paulo (UNIFESP), Brazil
+- Science and Technology Student at Federal University of São Paulo (UNIFESP), Brazil
     
 Driven by curiosity and passion for creating technology solutions that make life easier.
 Always looking for something else to learn or spend some time playing.
